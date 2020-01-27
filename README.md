@@ -46,3 +46,10 @@ pip2 --version
 pip3 --version
 pip --version
 ```
+
+## (4) 에러해결
+
+Can’t initialise nvrm channel 발견시
+```
+chromium-browser --no-sandbox 
+```
