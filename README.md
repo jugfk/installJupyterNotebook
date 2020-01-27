@@ -26,12 +26,16 @@ sudo jupyter labextension install @jupyterlab/statusbar
 jupyter lab --generate-config
 jupyter notebook password
 sudo pip3 install pillow
+```
 
-- How To Excute:
+## 주피터노트북과 주피터랩을 실행하는법:
+```
 jupyter notebook
 jupyter lab
+```
 
-- Check the version:
+## 주피터노트북과 주피랩 버젼 체크하기:
+```
 jupyter --version
 jupyter lab --version
 
@@ -41,5 +45,4 @@ python3 --version
 pip2 --version
 pip3 --version
 pip --version
-
 ```
