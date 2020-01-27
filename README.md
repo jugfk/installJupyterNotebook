@@ -16,8 +16,6 @@ sudo apt install python3-pil
 sudo apt install python-pip
 sudo apt install python-pil
 sudo pip3 install pillow
-sudo pip3 install --upgrade numpy
-sudo pip2 install --upgrade numpy
 
 sudo apt install nodejs
 sudo apt install npm
