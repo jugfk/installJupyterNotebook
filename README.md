@@ -1,5 +1,7 @@
-# 젯슨나노에서 주피터노트북과 주피터랩을 설치하기:
+# 젯슨나노에서 주피터노트북과 주피터랩
 ***
+
+## (1) 설치하기
 
 먼저 Ctrl + Alt + T 단축키를 눌러서 터미널을 엽니다.
 
@@ -28,13 +30,13 @@ jupyter notebook password
 sudo pip3 install pillow
 ```
 
-## 주피터노트북과 주피터랩을 실행하는법:
+## (2) 주피터노트북과 주피터랩을 실행하는법:
 ```
 jupyter notebook
 jupyter lab
 ```
 
-## 주피터노트북과 주피랩 버젼 체크하기:
+## (3) 주피터노트북과 주피랩 버젼 체크하기:
 ```
 jupyter --version
 jupyter lab --version
