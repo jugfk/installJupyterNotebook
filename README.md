@@ -17,9 +17,6 @@ sudo apt install python-pip
 sudo apt install python-pil
 sudo pip3 install pillow
 
-sudo apt install nodejs
-sudo apt install npm
-
 sudo apt install jupyter
 sudo pip3 install jupyterlab
 ```
