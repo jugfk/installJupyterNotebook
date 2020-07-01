@@ -22,10 +22,6 @@ sudo apt install npm
 
 sudo apt install jupyter
 sudo pip3 install jupyterlab
-sudo jupyter labextension install @jupyter-widgets/jupyterlab-manager
-sudo jupyter labextension install @jupyterlab/statusbar
-jupyter lab --generate-config
-jupyter notebook password
 ```
 
 ## (2) 주피터노트북과 주피터랩을 실행하는법:
