@@ -49,3 +49,5 @@ Can’t initialise nvrm channel 발견시
 ```
 chromium-browser --no-sandbox 
 ```
+
+![image01](https://raw.githubusercontent.com/jetsonworld/installJupyterNotebook/master/jupyterNotebook.png)
